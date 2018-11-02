@@ -24,15 +24,17 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 To set up your python environment to run the code in this repository, follow the instructions below.
 
-Create (and activate) a new environment with Python 3.6.
+1. Create (and activate) a new environment with Python 3.6.
 
 Linux or Mac:
 conda create --name drlnd python=3.6
 source activate drlnd
+
 Windows:
 conda create --name drlnd python=3.6 
 activate drlnd
-Follow the instructions in this repository to perform a minimal install of OpenAI gym.
+
+2. Follow the instructions in this repository to perform a minimal install of OpenAI gym.
 
 Next, install the classic control environment group by following the instructions here.
 Then, install the box2d environment group by following the instructions here.
