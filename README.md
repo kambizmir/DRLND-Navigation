@@ -37,6 +37,7 @@ activate drlnd
 2. Follow the instructions in this repository to perform a minimal install of OpenAI gym.
 
 -Next, install the classic control environment group by following the instructions here.
+
 -Then, install the box2d environment group by following the instructions here.
 
 3. Clone the repository (if you haven't already!), and navigate to the python/ folder. Then, install several dependencies.
