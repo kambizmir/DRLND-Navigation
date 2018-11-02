@@ -36,16 +36,19 @@ activate drlnd
 
 2. Follow the instructions in this repository to perform a minimal install of OpenAI gym.
 
-Next, install the classic control environment group by following the instructions here.
-Then, install the box2d environment group by following the instructions here.
-Clone the repository (if you haven't already!), and navigate to the python/ folder. Then, install several dependencies.
+-Next, install the classic control environment group by following the instructions here.
+-Then, install the box2d environment group by following the instructions here.
+
+3. Clone the repository (if you haven't already!), and navigate to the python/ folder. Then, install several dependencies.
 
 git clone https://github.com/udacity/deep-reinforcement-learning.git
 cd deep-reinforcement-learning/python
 pip install .
-Create an IPython kernel for the drlnd environment.
+
+4. Create an IPython kernel for the drlnd environment.
 python -m ipykernel install --user --name drlnd --display-name "drlnd"
-Before running code in a notebook, change the kernel to match the drlnd environment by using the drop-down Kernel menu.
+
+5. Before running code in a notebook, change the kernel to match the drlnd environment by using the drop-down Kernel menu.
 
 ### Environment
 
